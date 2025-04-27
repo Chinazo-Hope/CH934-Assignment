@@ -1,0 +1,23 @@
+===================================================================================
+SLURM Job ID:            11984595
+Submit time:             Tue Apr 15 20:49:22 BST 2025 (Unix Epoch time: 1744746562)
+Start time:              Tue Apr 15 20:49:51 BST 2025 (Unix Epoch time: 1744746591)
+No. nodes:               1
+No. tasks:               2
+Job name:                TETCEN_SP
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/skb24161/CH934
+Script name:             /users/skb24161/CH934/TETCEN_SP.sh
+Master node:             wee09
+Nodes used:              wee09
+Task distribution:       
+===================================================================================
+
+===================================================================================
+SLURM job 11984595 ended:     Tue Apr 15 20:49:38 BST 2025 (Unix Epoch time: 1744746578)
+This is an estimated end time using the 'date' command from node wee09.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 11984595 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=11984595.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

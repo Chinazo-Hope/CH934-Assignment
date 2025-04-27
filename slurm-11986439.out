@@ -1,0 +1,23 @@
+whoami: cannot find name for user ID 6495
+===================================================================================
+SLURM Job ID:            11986439
+Submit time:             Sat Apr 19 16:43:17 BST 2025 (Unix Epoch time: 1745077397)
+Start time:              Sat Apr 19 16:43:18 BST 2025 (Unix Epoch time: 1745077398)
+No. nodes:               1
+No. tasks:               16
+Job name:                TETCEN_16core
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/skb24161/CH934
+Script name:             /users/skb24161/CH934/TETCEN_16cores.sh
+Master node:             wee18
+Nodes used:              wee18
+Task distribution:       
+===================================================================================
+
+===================================================================================
+SLURM job 11986439 ended:     Sat Apr 19 16:42:26 BST 2025 (Unix Epoch time: 1745077346)
+This is an estimated end time using the 'date' command from node wee18.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 11986439 -X --format=Submit,Start,End,Elapsed'
+======================================================================================

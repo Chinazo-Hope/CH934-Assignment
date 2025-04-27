@@ -1,0 +1,22 @@
+===================================================================================
+SLURM Job ID:            11986435
+Submit time:             Sat Apr 19 15:59:12 BST 2025 (Unix Epoch time: 1745074752)
+Start time:              Sat Apr 19 15:59:12 BST 2025 (Unix Epoch time: 1745074752)
+No. nodes:               1
+No. tasks:               8
+Job name:                PENCEN_8core
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/skb24161/CH934
+Script name:             /users/skb24161/CH934/PENCEN_8cores.sh
+Master node:             wee17
+Nodes used:              wee17
+Task distribution:       
+===================================================================================
+
+===================================================================================
+SLURM job 11986435 ended:     Sat Apr 19 15:58:40 BST 2025 (Unix Epoch time: 1745074720)
+This is an estimated end time using the 'date' command from node wee17.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 11986435 -X --format=Submit,Start,End,Elapsed'
+======================================================================================

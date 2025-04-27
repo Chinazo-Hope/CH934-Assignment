@@ -1,0 +1,22 @@
+===================================================================================
+SLURM Job ID:            11986436
+Submit time:             Sat Apr 19 15:59:12 BST 2025 (Unix Epoch time: 1745074752)
+Start time:              Sat Apr 19 15:59:12 BST 2025 (Unix Epoch time: 1745074752)
+No. nodes:               1
+No. tasks:               8
+Job name:                TETCEN_8core
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/skb24161/CH934
+Script name:             /users/skb24161/CH934/TETCEN_8cores.sh
+Master node:             wee17
+Nodes used:              wee17
+Task distribution:       
+===================================================================================
+
+===================================================================================
+SLURM job 11986436 ended:     Sat Apr 19 15:58:35 BST 2025 (Unix Epoch time: 1745074715)
+This is an estimated end time using the 'date' command from node wee17.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 11986436 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
